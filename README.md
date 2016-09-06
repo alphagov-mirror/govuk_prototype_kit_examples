@@ -1,2 +1,3 @@
-# govuk_prototype_kit_examples
+# GOV.UK prototype kit examples
+
 Examples of useful prototype kit techniques
